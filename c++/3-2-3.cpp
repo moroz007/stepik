@@ -39,6 +39,7 @@ using namespace std;
 
 int main(){
     int n;
+    cout << 'Введите число n для создания матрицы: ';
     cin >> n;
     
     long a[n][n];
